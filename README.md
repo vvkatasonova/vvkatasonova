@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Veronika 👋
 
-<!--
-**vvkatasonova/vvkatasonova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Taras Shevchenko National University of Kyiv.
 
-Here are some ideas to get you started:
+I'm interested in AI, workflow automation, business process optimization, and software development. I enjoy building practical solutions that automate repetitive tasks and improve business efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Programming Languages
+- Python
+- Java
+- SQL
+- C++
+
+### AI & Automation
+- OpenAI API
+- Prompt Engineering
+- n8n
+- AI Workflow Design
+- Business Process Automation
+
+### Tools
+- Git
+- GitHub
+- Figma
+- Google Sheets
+- Microsoft Excel
+- Telegram Bot API
+
+### Currently Learning
+- AI Agents
+- LLM Applications
+- Advanced Automation Workflows
+
+## Featured Projects
+
+- 🤖 AI Virtual Administrator for Beauty Salon
+- 📋 AI Lead Management Workflow
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/veronika-katasonova-945134304
