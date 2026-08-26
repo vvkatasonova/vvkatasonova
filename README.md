@@ -1,49 +1,38 @@
 # Hi, I'm Veronika 👋
 
-🎓 Computer Science student at Taras Shevchenko National University of Kyiv.
+I'm a Computer Science student at Taras Shevchenko National University of Kyiv.
 
-I'm interested in AI, workflow automation, business process optimization, and software development. I enjoy building practical solutions that automate repetitive tasks and improve business efficiency.
+I like building practical tools around automation, AI and business processes. Most of my recent projects started from a real workflow or business problem that I wanted to turn into a working system.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Projects
 
-## Tech Stack
+### Velar Diagnostic App
 
-### Programming Languages
-- Python
-- Java
-- SQL
-- C++
+A Python/Streamlit prototype for structured business diagnostics.
 
-### AI & Automation
-- OpenAI API
-- Prompt Engineering
-- n8n
-- AI Workflow Design
-- Business Process Automation
+It turns a diagnostic playbook into a workflow for reviewing business problems, collecting evidence, prioritizing findings and generating an audit report.
 
-### Tools
-- Git
-- GitHub
-- Figma
-- Google Sheets
-- Microsoft Excel
-- Telegram Bot API
+[View project](https://github.com/vvkatasonova/velar-diagnostic-app)
 
-### Currently Learning
-- AI Agents
-- LLM Applications
-- Advanced Automation Workflows
+### AI Virtual Administrator
 
-## Featured Projects
+An n8n-based Telegram assistant for a beauty salon with text and voice processing, AI responses and human handoff.
 
-- 🤖 AI Virtual Administrator for Beauty Salon
-- 📋 AI Lead Management Workflow
+[View project](https://github.com/vvkatasonova/telegram-virtual-admin-ai)
+
+### AI Lead Response Automation
+
+An n8n workflow for processing incoming leads, assigning priority and preparing a suggested response for a manager.
+
+[View project](https://github.com/vvkatasonova/ai-lead-management-workflow)
+
+## Technologies
+
+**Programming:** Python, Java, SQL, C++
+**Automation & AI:** n8n, OpenAI API, prompt design, workflow automation
+**Tools:** Git, GitHub, SQLite, Streamlit, Google Sheets, Telegram Bot API
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/veronika-katasonova-945134304
+[LinkedIn](https://www.linkedin.com/in/veronika-katasonova-945134304)
+
