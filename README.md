@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at Taras Shevchenko National University of Kyiv.
 
-I like building practical tools around software, automation, business processes and applied computer science. My projects range from business diagnostic systems and AI workflows to Java desktop applications and embedded control systems.
+I like building practical tools across software, automation, business processes and applied computer science. My projects range from business diagnostic systems and AI workflows to Java desktop applications, embedded control systems and UX/UI design.
 
 ## Projects
 
@@ -44,13 +44,13 @@ An n8n workflow for processing incoming leads, assigning priority and preparing 
 
 ## Additional Work
 
-### BookApp — UX/UI Prototype
+### BookApp — UX/UI Design Case Study
 
-Mobile and desktop e-reading application prototype designed in Figma using Material Design 3 principles.
+A mobile and desktop e-reading application prototype designed in Figma using Material Design 3.
 
-The project includes reading flows, notes, analytics, reading settings, theme switching, favorites and responsive desktop layouts.
+The project includes reading flows, notes, analytics, reading settings, theme switching, favorites, microinteractions and responsive desktop layouts.
 
-[View Figma prototype](FIGMA_LINK)
+[View project](/vvkatasonova/bookapp-ui-ux-design)
 
 ### Python E-learning Website — Diploma Project
 
@@ -63,10 +63,15 @@ The published project page includes the educational website and authorship infor
 ## Technologies
 
 **Programming:** Python, Java, SQL, C++, MCS-51 Assembly
+
 **Frameworks & Tools:** Streamlit, JavaFX, Maven, SQLite, n8n, Git, GitHub
+
 **AI & Automation:** OpenAI API, prompt design, workflow automation
-**Other:** Figma, Google Sheets, Telegram Bot API
+
+**Design:** Figma, Material Design 3
+
+**Other:** Google Sheets, Telegram Bot API
 
 ## Contact
 
-[LinkedIn](YOUR_LINKEDIN_LINK)
+[LinkedIn](https://www.linkedin.com/in/veronika-katasonova-945134304)
