@@ -12,7 +12,7 @@ A Python/Streamlit prototype for structured business diagnostics.
 
 It turns a diagnostic playbook into a workflow for reviewing business problems, collecting evidence, prioritizing findings and generating an audit report.
 
-[View project](/vvkatasonova/velar-diagnostic-app)
+[View project](https://github.com/vvkatasonova/velar-diagnostic-app)
 
 ### Monte Carlo π Visualizer
 
@@ -20,7 +20,7 @@ A JavaFX desktop application that visualizes the Monte Carlo method for estimati
 
 The project combines probabilistic modelling, object-oriented design, interactive visualization and manual software testing.
 
-[View project](/vvkatasonova/monte-carlo-pi-visualizer)
+[View project](https://github.com/vvkatasonova/monte-carlo-pi-visualizer)
 
 ### 8051 Vehicle Lift Control System
 
@@ -28,19 +28,19 @@ An embedded control-system project for a simulated two-floor vehicle lift.
 
 The controller is implemented in MCS-51 Assembly for the Intel 80C51 and includes sensor processing, movement logic and emergency handling.
 
-[View project](/vvkatasonova/8051-vehicle-lift-control-system)
+[View project](https://github.com/vvkatasonova/8051-vehicle-lift-control-system)
 
 ### AI Virtual Administrator
 
 An n8n-based Telegram assistant for a beauty salon with text and voice processing, AI responses and human handoff.
 
-[View project](/vvkatasonova/telegram-virtual-admin-ai)
+[View project](https://github.com/vvkatasonova/telegram-virtual-admin-ai)
 
 ### AI Lead Response Automation
 
 An n8n workflow for processing incoming leads, assigning priority and preparing a suggested response for a manager.
 
-[View project](/vvkatasonova/ai-lead-management-workflow)
+[View project](https://github.com/vvkatasonova/ai-lead-management-workflow)
 
 ## Additional Work
 
