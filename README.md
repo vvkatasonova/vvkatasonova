@@ -50,7 +50,7 @@ A mobile and desktop e-reading application prototype designed in Figma using Mat
 
 The project includes reading flows, notes, analytics, reading settings, theme switching, favorites, microinteractions and responsive desktop layouts.
 
-[View project](/vvkatasonova/bookapp-ui-ux-design)
+[View project](https://github.com/vvkatasonova/bookapp-ui-ux-design)
 
 ### Python E-learning Website — Diploma Project
 
